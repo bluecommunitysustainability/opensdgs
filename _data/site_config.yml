@@ -76,21 +76,19 @@ frontpage_cards:
     button_label: ''
     button_link: ''
     rule_color: ''
-  - title: Lorem ipsum
+  - title: Blue Community
     content: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi mollis
-      cursus est sed dapibus.
+      The Blue Community Assessment for destination communities.
     include: ''
-    button_label: Read more
-    button_link: 'https://example.com'
+    button_label: Visit App
+    button_link: 'https://app.bluecommunity.info/full'
     rule_color: ''
-  - title: Nam vestibulum
+  - title: Stakeholder Dashboard
     content: |
-      Nam vestibulum, purus quis porttitor imperdiet, nisl sem mollis nisl, a
-      interdum risus enim vitae tortor. Donec feugiat accumsan rutrum.
+      📊 Stakeholder Dashboard to display info and dynamic data collected by teams
     include: ''
-    button_label: Read more
-    button_link: 'https://example.com'
+    button_label: Visit Dashboard
+    button_link: 'https://bluecommunities.glide.page'
     rule_color: ''
 frontpage_goals_grid:
   title: frontpage.heading_short
