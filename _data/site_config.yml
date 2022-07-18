@@ -22,8 +22,8 @@ breadcrumbs:
 cookie_consent_form:
   enabled: false
 country:
-  name: Australia
-  adjective: Australian
+  name: United States
+  adjective: Americans
 create_goals:
   previous_next_links: false
   goals: []
@@ -55,7 +55,7 @@ disclaimer:
   message: ''
   hidden: false
 email_contacts:
-  questions: test@example.com
+  questions: blue.community.info@gmail.com
   suggestions: test@example.com
   functional: test@example.com
 environment: staging
@@ -63,9 +63,9 @@ footer_language_toggle: none
 footer_menu:
   - path: /contact-us
     translation_key: menu.contact_us
-  - path: 'https://twitter.com/MyTwitterAccount'
+  - path: 'https://twitter.com/bluecommfla'
     translation_key: general.twitter
-  - path: 'https://facebook.com/MyFacebookAccount'
+  - path: 'https://facebook.com/bluecommunitysustainability'
     translation_key: general.facebook
   - path: /about/cookies-and-privacy/
     translation_key: menu.cookies
@@ -198,7 +198,7 @@ metadata_tabs:
     title: indicator.sources
     description: ''
 news:
-  category_links: false
+  category_links: true
 progress_status:
   status_heading: ''
   status_types: []
